@@ -15,7 +15,7 @@ Claude Code stores output styles in specific local configuration and markdown fi
 
 ---
 
-## 🛠️ Custom Style File Structure
+## Custom Style File Structure
 
 Custom output styles are written in Markdown and include YAML frontmatter. Below is an example structure:
 
@@ -27,7 +27,7 @@ keep-coding-instructions: true
 ---
 ```
 
-## ⚙️ How to Manage Styles
+## How to Manage Styles
 
 You can view, manage, or change active styles inside the CLI by running:
 ```bash
